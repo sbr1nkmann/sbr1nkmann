@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my Company SPOTS-BSS GmbH to bring more values to our customers and to the marked
+🔭 I’m currently working on my Company [SPOTS-BSS GmbH](https://spots-bss.com) to bring more values to our customers and to the market <br>
+💬 Ask me about everything related to your Micosoft 365 Business Central <br>
+😄 Pronouns: he/him <br>
 
-💬 Ask me about everything related to your Business Central 
-
-😄 Pronouns: he/him
 <!--
 **sbr1nkmann/sbr1nkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
