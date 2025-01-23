@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on my Company SPOTS-BSS GmbH to bring more values to our customers and to the marked
+💬 Ask me about everything related to your Business Central 
+😄 Pronouns: he/him
 <!--
 **sbr1nkmann/sbr1nkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
