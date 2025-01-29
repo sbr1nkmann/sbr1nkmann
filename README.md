@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+<!---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=sbr1nkmann.sbr1nkmann)
+-->
 
 🔭 I’m currently working on my Company [SPOTS-BSS GmbH](https://spots-bss.com) to bring more values to our customers and to the market <br>
 💬 Ask me about everything related to your Micosoft 365 Business Central <br>
