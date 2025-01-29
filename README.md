@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sbr1nkmann.sbr1nkmann&color=29b6f6)
+
 🔭 I’m currently working on my Company [SPOTS-BSS GmbH](https://spots-bss.com) to bring more values to our customers and to the market <br>
 💬 Ask me about everything related to your Micosoft 365 Business Central <br>
 😄 Pronouns: he/him <br>
